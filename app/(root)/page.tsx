@@ -5,12 +5,12 @@ const Home = () => {
   return (
     <div>
       <p>Home</p>
-      <SignedOut>
+      {/* <SignedOut>
         <SignInButton />
       </SignedOut>
       <SignedIn>
         <UserButton />
-      </SignedIn>
+      </SignedIn> */}
     </div>
   );
 };
